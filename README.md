@@ -8,3 +8,7 @@ The dataset is downloaded from the [Kaggle Bluebook for Bulldozers competition](
 Place the downloaded dataset inside the `Data` folder.  
 > **Note:** The `Data` folder is excluded from version control (`.gitignore`), so it won't be included in the repository.  
 
+## Model Prediction  
+The predictions are made on the test data provided in the Kaggle repository. The results are saved as `Data/bluebook-for-bulldozers/test_predictions.csv`.  
+
+Additionally, the important features used for making predictions are plotted at the end of the Jupyter notebook. These plots help to visualize which features play a significant role in the model's predictions.
