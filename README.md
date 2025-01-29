@@ -9,4 +9,4 @@ Place the downloaded dataset inside the `Data` folder.
 > **Note:** The `Data` folder is excluded from version control (`.gitignore`), so it won't be included in the repository.  
 
 
-Additionally, the important features used for making predictions are plotted at the end of the Jupyter notebook. These plots help to visualize which features play a significant role in the model's predictions.
+Additionally, the important features used for making predictions are plotted at the end of the Jupyter notebook. These plots help to visualize which features play a significant role in the model's predictions..
