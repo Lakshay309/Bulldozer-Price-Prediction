@@ -10,3 +10,12 @@ Place the downloaded dataset inside the `Data` folder.
 
 
 Additionally, the important features used for making predictions are plotted at the end of the Jupyter notebook. These plots help to visualize which features play a significant role in the model's predictions..
+
+## Requirement 
+requirement to run the end-to-end-heart-disease.ipynb is 
+    - python(3.8.19 or above)
+    - sklearn
+    - matplotlib
+    - numpy
+    - pandas
+    - seaborn
